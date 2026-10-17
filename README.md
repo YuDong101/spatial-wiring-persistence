@@ -32,8 +32,6 @@ Results are saved in `results/`. Tested with MATLAB R2026a. The full scan can be
 
 ## Data source
 
-The coordinate file retains the first recorded position per neuron, with original row order and no spatial transformation. FlyWire v783 data are distributed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/); see the [FlyWire data-use guidelines](https://home.flywire.ai/guidelines).
-
 Dorkenwald, S. et al. Neuronal wiring diagram of an adult brain. *Nature* **634**, 124–138 (2024). [doi:10.1038/s41586-024-07558-y](https://doi.org/10.1038/s41586-024-07558-y).
 
 **This repository provides the code for Figure 1. All other results in the article can be obtained from the generated networks and simulation outputs using the [Brain Connectivity Toolbox (BCT)](https://sites.google.com/site/bctnet/) together with the other calculations and analyses described in the article.**
