@@ -1,4 +1,4 @@
-# Figure 1 reproduction code
+# Spatial-wiring-persistence
 
 MATLAB code accompanying the article:
 
